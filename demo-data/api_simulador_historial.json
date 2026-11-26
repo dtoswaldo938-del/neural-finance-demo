@@ -1,0 +1,1 @@
+{"status":"ok","total_movimientos":1,"movimientos":[{"id":1,"cuenta_id":1,"fecha_utc":"2026-11-19T03:25:40.629829+00:00","tipo_movimiento":"capital_inicial","descripcion":"Asignación inicial de capital ficticio","monto":100000.0,"saldo_resultante":100000.0,"origen":"configuracion_academica","operaciones_reales":false}],"operaciones_reales":false}

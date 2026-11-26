@@ -1,0 +1,1 @@
+﻿{"status":"ok","capitulo":10,"configuracion":{"fecha_utc":"2026-11-12T22:43:10.691682+00:00","semilla":42,"episodios":80,"alpha":0.08,"gamma":0.95,"fee":0.001,"capital_virtual":100000.0,"vol_edges_TR":[0.022617508087418105,0.030405215076276946],"filas_TR":1384,"filas_VA":296,"filas_TE_reservadas":298,"acciones":["sin_exposicion","exposicion_virtual"]}}
